@@ -1,0 +1,18 @@
+*{
+    margin: 1px;
+   padding: 0px; 
+}
+.navbar{
+ display:flex;
+ justify-content: space-around;
+ padding: 10px;
+}
+.sign{
+    /* padding: 10px 15px;
+    color: aqua;
+    border-radius: 10px, solid rgb(3, 133, 133); */
+    border: 2px solid rgb(3, 97, 97);
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: rgba(1, 148, 111, 0.938);
+}
