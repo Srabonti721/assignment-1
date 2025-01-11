@@ -238,3 +238,31 @@ body {
     text-align: center;
     margin-top: 30px;
 }
+
+
+/* Muhammad Yunus quote */
+#quote .container {
+    padding: 48px 24px;
+}
+.quote-content {
+    background: #fff;
+    border-radius: 25px;
+    background-image: url("../assets/quote-bg.png");
+    background-position: 25px 25px;
+    background-repeat: no-repeat;
+}
+.quote-content p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #0E0E0ECC;
+    line-height: 24px;
+}
+.quote-content h4 {
+    font-size: 20px;
+    font-weight: 600;
+    color: #0E0E0ECC;
+    margin-top: 12px;
+}
+.quote-content .designation {
+    color: #0E0E0E99;
+}
